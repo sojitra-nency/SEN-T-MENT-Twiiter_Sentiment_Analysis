@@ -17,7 +17,7 @@ pip install tweepy
 
 pip install textblob
 
-pip install matplotlib
+pip install matplotlib --
 
 
 ##Set up Twitter API: 
