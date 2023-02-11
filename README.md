@@ -7,9 +7,14 @@ Here's a step-by-step guide on how to use this project:
 
 ##Installation: 
 
-To use this project, you'll need to install the required packages such as Flask, Tweepy, TextBlob, and Matplotlib. You can install them by running the following command in your terminal:
+To use this project, you'll need to install the required packages such as Flask, Tweepy, TextBlob, and Matplotlib.
+You can install them by running the following command in your terminal:
 
-pip install Flask Tweepy TextBlob Matplotlib
+pip install Flask 
+pip install tweepy
+pip install textblob
+pip install matplotlib
+
 Set up Twitter API: You'll need to set up a Twitter API account and generate API keys to be able to retrieve tweets. Go to the Twitter developer site and sign up for a developer account. After signing up, create a new project and generate API keys.
 
 Configure the Tweepy API: In the code, replace the placeholder API keys with the ones you generated in the previous step.
